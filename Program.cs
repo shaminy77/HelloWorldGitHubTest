@@ -12,6 +12,8 @@ namespace HelloWorldGitHubTest
             Console.WriteLine("Pari Riviä lisää");
             Console.WriteLine("Pari Riviä lisää");
 
+            ConsoWriteLine("Tehdään Virhe");
+
 
         }
     }
