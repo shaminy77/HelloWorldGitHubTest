@@ -10,9 +10,9 @@ namespace HelloWorldGitHubTest
             Console.WriteLine("HHere is change");
             Console.WriteLine("Yepso");
 
-            #Yritetään Krojata virhettä uudessa haarassa
+# Yritetään Krojata virhettä uudessa haarassa
 
-            ConsoiteLine(VIRHE");
+            Console.WriteLine("VIRHE korjattu");
 
         }
     }
