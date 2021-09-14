@@ -10,6 +10,7 @@ namespace HelloWorldGitHubTest
             Console.WriteLine("HHere is change");
             Console.WriteLine("Yepso");
 
+            ConsoiteLine(VIRHE");
 
         }
     }
