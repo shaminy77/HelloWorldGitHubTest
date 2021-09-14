@@ -14,7 +14,7 @@ namespace HelloWorldGitHubTest
 
             Console.WriteLine("VIRHE korjattu");
 
-            Console.WriteLine("Versio2.0");
+            Console.WriteLine("Versio3.0");
         }
     }
 }
