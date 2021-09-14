@@ -9,10 +9,6 @@ namespace HelloWorldGitHubTest
             Console.WriteLine("Hello World!");
             Console.WriteLine("HHere is change");
             Console.WriteLine("Yepso");
-            Console.WriteLine("Pari Riviä lisää");
-            Console.WriteLine("Pari Riviä lisää");
-
-            ConsoWriteLine("Tehdään Virhe");
 
 
         }
